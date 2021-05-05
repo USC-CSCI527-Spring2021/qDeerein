@@ -1,4 +1,5 @@
 # qDeerein
+#GOAL OF THE PROJECTThegoaloftheprojectistotrainanagentthatplaysthe‘DangerousDave’game.Theobjectiveistopreventanyhumaninterventionandmaketheagentlearntheoptimalmoves.Thiscanbeachievedbyutilizingvariousreinforcementlearninganddeeplearningtechniques.Therearevariouslevels/stagesinthisgamebutthescopeofthisprojectistoutilizethe1ststageofthegame for training and testing purposes
 
 # Team
 Akash Patel (akashkum@usc.edu) 
